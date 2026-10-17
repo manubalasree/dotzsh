@@ -1,0 +1,5 @@
+# name  repo  commit
+zsh-defer               romkatv/zsh-defer                    53a26e287fbbe2dcebb3aa1801546c6de32416fa
+zsh-autosuggestions     zsh-users/zsh-autosuggestions        85919cd1ffa7d2d5412f6d3fe437ebdbeeec4fc5
+zsh-completions         zsh-users/zsh-completions            6661b4b68173784ba31ef10ce4b5cb1c9ecfdcac
+zsh-syntax-highlighting zsh-users/zsh-syntax-highlighting    e6683f20e5c38d3e5447f45845d04ddda75d0f23
